@@ -1,0 +1,73 @@
+page{
+	background-color: #050b1d;
+}
+	
+.cu-modal {
+	z-index: 998; // 原来是1110,影响toast 999的顶层显示
+}
+
+.bg-zbg {
+	background-color: #050b1d !important;
+	color: #ffffff;
+}
+
+.bg-zbtn-disable {
+	background-color: #6cbf77;
+	color: #ffffff;
+}
+
+.bg-zpopt {
+	background-color: #0c162d;
+	color: #ffffff;
+}
+
+.bg-zpopc {
+	background-color: #040d21;
+	color: #ffffff;
+}
+
+.bg-zpopcIn {
+	background-color: #050b1d;
+	color: #ffffff;
+}
+
+.bg-zbtn {
+	background-color: #30ab53;
+	color: #ffffff;
+}
+
+.text-zt {
+	color: #969aa4;
+}
+
+.text-zpt {
+	color: #2eb36c;
+}
+
+.border-zall {
+	border: solid 1upx #2eb36c;
+}
+
+.border-zalls {
+	border: solid 6upx #2eb36c;
+	box-shadow: 6upx 6upx 8upx rgba(26, 26, 26, 0.2);
+	border-radius: 10upx;
+}
+
+.border-zdowns {
+	border-bottom: solid 7.5upx #2eb36c;
+}
+
+.border-zdownsXs {
+	border-bottom: solid 1upx #2eb36c;
+}
+
+.cu-btn.zlg {
+	padding: 0 40upx;
+	font-size: 42upx;
+	height: 80upx;
+}
+
+.zround {
+	border-radius: 25upx;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "hldBox",
+  "version": "1.0.0",
+  "description": "分布式储存，参与做股东",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "http://admin@git.upsv.com/r/etex.git"
+  },
+  "keywords": [
+    "AGL",
+    "hldBox",
+    "分布式储存",
+    "参与做股东",
+    "分布式储存，参与做股东"
+  ],
+  "author": "zyl",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "tki-qrcode": "^0.1.6",
+    "tp-js-sdk": "^3.6.1",
+    "vue-clipboard2": "^0.3.1",
+    "web3": "^1.3.6"
+  }
+}

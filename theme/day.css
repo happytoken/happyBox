@@ -1,0 +1,77 @@
+page{
+	background-color: #f1f1f1;
+}
+
+uni-toast{
+	z-index: 99999;
+}
+	
+.cu-modal {
+	z-index: 998; // 原来是1110,影响toast 999的顶层显示
+}
+
+.bg-zbg {
+	background-color: #f1f1f1 !important;
+	color: #fff;
+}
+
+.bg-zbtn-disable {
+	background-color: #6cbf77;
+	color: #fff;
+}
+
+.bg-zpopt {
+	background-color: #081f29;
+	color: #fff;
+}
+
+.bg-zpopc {
+	background-color: #1d4353;
+	color: #fff;
+}
+
+.bg-zpopcIn {
+	background-color: #1d4353;
+	color: #fff;
+}
+
+.bg-zbtn {
+	background-color: #30ab53;
+	color: #fff;
+}
+
+.text-zt {
+	color: #a7bcc6;
+}
+
+.text-zpt {
+	color: #2eb36c;
+}
+
+.border-zall {
+	border: solid 1upx #a7bcc6;
+}
+
+.border-zalls {
+	border: solid 5upx #a7bcc6;
+	box-shadow: 6upx 6upx 8upx rgba(26, 26, 26, 0.2);
+	border-radius: 10upx;
+}
+
+.border-zdowns {
+	border-bottom: solid 5upx #a7bcc6;
+}
+
+.border-zdownsXs {
+	border-bottom: solid 1upx #a7bcc6;
+}
+
+.cu-btn.zlg {
+	padding: 0 40upx;
+	font-size: 42upx;
+	height: 80upx;
+}
+
+.zround {
+	border-radius: 25upx;
+}

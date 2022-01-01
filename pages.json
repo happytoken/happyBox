@@ -1,0 +1,28 @@
+{
+	"pages": [
+		{
+			"path": "pages/index"
+		},
+		{
+			"path": "pages/invite"
+		},
+		{
+			"path": "pages/notice"
+		},
+		{
+			"path": "pages/cards"
+		},
+		{
+			"path": "pages/group"
+		},
+		{
+			"path": "pages/withdraw"
+		},
+		{
+			"path": "pages/people"
+		}
+    ],
+	"globalStyle": {
+		"navigationStyle": "custom"
+	}
+}
